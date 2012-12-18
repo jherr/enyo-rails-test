@@ -1,0 +1,3 @@
+== Enyo/Rails Test
+
+The idea of this app is to test how the Enyo framework should be properly integrated into the Rails stack. With that in hand the next stem is to gem-ify it so that a user can easily download the Enyo gem and install it into their Rails app.
